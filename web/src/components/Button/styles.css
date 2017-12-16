@@ -1,0 +1,22 @@
+.button-container {
+    width: 500px;
+    height: 60px;
+    margin-bottom: 20px;
+    border-radius: 3px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-size: 30px;
+    margin-top: 20px;
+}
+.link {
+    text-decoration: none;
+}
+
+.button-label {
+    position: relative;
+    left: -110px;
+}
